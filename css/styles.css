@@ -209,6 +209,8 @@ button {
   cursor: pointer;
   opacity: 0.8;
   transition: backdrop-filter 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease; /* Adiciona transições suaves */
+  text-decoration: none;
+  color: white;
 }
 
 .btn:hover {
